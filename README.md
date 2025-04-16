@@ -9,14 +9,13 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados de R
 
 O conjunto de dados contém colunas como:
 
-- `Age`: Idade do colaborador  
-- `Attrition`: Se o colaborador saiu da empresa (`Yes` ou `No`)  
-- `BusinessTravel`: Frequência de viagens a trabalho  
-- `Department`: Departamento de atuação  
-- `DistanceFromHome`: Distância da casa ao trabalho  
-- `Education` e `EducationField`: Nível e área de formação  
-- `DailyRate`: Salário diário  
-- `EmployeeCount`: Quantidade de funcionários (coluna constante)
+-  👥 Total de Funcionários
+- 👨‍💼 Distribuição por Gênero
+- ⏳ Status de Serviço
+- 📈 Promoções
+- 🧍 Funcionários por Anos de Serviço
+- 🧩 Níveis de Trabalho
+- 📍 Distância do Trabalho
 
 ---
 
@@ -30,6 +29,8 @@ O conjunto de dados contém colunas como:
 ---
 
 ## 📊 Dashboard
+![image](https://github.com/user-attachments/assets/cfefa33a-549e-46b5-baf0-f919d4f00989)
+
 
 
 ---
